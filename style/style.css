@@ -1,0 +1,177 @@
+*{
+    font-family: 'Work Sans';
+    margin: 0;
+}
+/* first section style */
+.first-section{
+    background-image: url(/images/banner/banner3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.first-section-content{
+    width: 500px;
+    height: auto;
+    text-align: right;
+    padding: 180px 0px;
+    position: relative;
+    left: 300px;
+    margin: auto;
+}
+.first-section-title{
+    font-size: 60px;
+    color: white;
+    text-align: right;
+}
+.first-section-discription{
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+.primary-btn{
+    padding: 18px 26px;
+    font-size: 18px;
+    color: #005FAC;
+    border: none;
+}
+.second-section-content{
+    width: 1000px;
+    align-items: center;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding: 100px 0px ;
+}
+.content-box-title , .content-title{
+    font-size: 40px;
+    text-align: left;
+}
+.content-box-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    line-height: 25px;
+}
+.content-box ul li{
+    list-style: none;
+    margin-left: -40px;
+    padding: 8px 0px;
+    font-size: 16px;
+}
+.content-box ul li i{
+    color: #16D887;
+}
+.content-box ul{
+    margin-top: 10px;
+}
+.third-section{
+    padding: 100px 0px;
+}
+.third-section-title{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 80px;
+    font-weight: 700;
+}
+.third-sec-content-box{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: auto;
+}
+.boxs{
+    text-align: center;
+}
+.boxs-images{
+    width: 100px;
+    height: auto;
+}
+.boxs-title{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 24px;
+    margin-bottom: 15px;
+}
+.boxs-sub{
+    font-size: 25px;
+    font-weight: 400;
+}
+.fourth-section{
+    margin-bottom: 120px;
+}
+.fourth-sec-content-box{
+    width: 1000px;
+    margin: auto;
+    background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(25, 96, 177, 0.774)), url(/images/watch.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 20px;
+}
+.fourth-sec-content-box .content-title{
+    margin-bottom: 24px;
+    color: white;
+}
+.fiveth-section{
+    background-color: black;
+}
+.fiveth-sec-content-box{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: auto;
+    padding: 130px 0px;
+}
+.box-1{
+    width: 60%;
+}
+.box-2{
+    width: 30%;
+}
+.box-1-title{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+.box-1-description{
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+.box-1 .contact{
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    margin: 20px 0px;
+}
+.icon-images{
+    width: 47px;
+    margin-right: 16px;
+}
+.email-from-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 24px;
+}
+.email-tab{
+    background-color: black;
+    border: 1px solid white;
+    padding: 20px 12px ;
+    width: 100%;
+    color: white;
+}
+.email-tab-btn{
+    padding: 20px 35px;
+    background-color: #005FAC;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
