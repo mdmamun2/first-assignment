@@ -4,7 +4,7 @@
 }
 /* first section style */
 .first-section{
-    background-image: url("./images/banner/banner3.png");
+    background-image: url('/images/banner/banner3.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -106,7 +106,7 @@
 .fourth-sec-content-box{
     width: 1000px;
     margin: auto;
-    background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(25, 96, 177, 0.774)), url("./images/watch.png");
+    background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(25, 96, 177, 0.774)), url('/images/watch.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -177,7 +177,7 @@
     border: none;
 }
 .projects{
-    background-image: url("./images/projects.jpg "),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-image: url('/images/projects.jpg'),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
